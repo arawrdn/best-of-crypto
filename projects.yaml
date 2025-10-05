@@ -86,6 +86,13 @@ projects:
     homepage: https://github.com/vyperlang
     description: The foundation for our digital future.
     category: smart-contract-platform
+    group: true
+  - group: true
+    group_id: tezos
+    name: Tezos - XTZ
+    homepage: https://github.com/tezos/tezos
+    description: Tezos is a decentralized, self-amending Layer-1 blockchain with on-chain governance and upgradeability.
+    category: smart-contract-platform
   - group: true
     group_id: btc
     name: BTC - Bitcoin
